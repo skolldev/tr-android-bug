@@ -1,0 +1,7 @@
+{
+  "name": "tr-android-bug",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
